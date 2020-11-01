@@ -4,4 +4,5 @@
 'author': 'Ahmed F.',
 'depends': ['library_app'],
 'application': False,
+'data': [ 'security/library_security.xml'],
 }
